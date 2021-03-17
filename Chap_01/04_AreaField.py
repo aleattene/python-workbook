@@ -5,7 +5,7 @@ Program that asks the USER to enter the SIZE of a FARMER'S FIELD
 The final result is then displayed.
 """
 
-# Acquisition USER DATA
+# Acquisition of DATA entered by the USER
 width = float(input("Enter the WIDTH of a FARMER'S FIELD (feet): "))
 length = float(input("Enter also the LENGTH (feet): "))
 
