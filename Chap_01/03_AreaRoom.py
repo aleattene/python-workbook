@@ -9,7 +9,7 @@ The final result is then displayed.
 width = float(input("Enter the WIDTH of your room (meters): "))
 length = float(input("Enter also the LENGTH (meters): "))
 
-# Calculation ROOM AREA (square meters)
+# Computing ROOM AREA (square meters)
 area = width * length
 
 # Displaying FINAL RESULT
