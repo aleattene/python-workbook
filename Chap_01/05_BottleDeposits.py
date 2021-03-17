@@ -9,7 +9,7 @@ and COMPUTES the REFUND in case you recycle them, considering:
 REFUND_UNDER_EQUAL_1L = 0.10       # refund drink container <= 1 liter
 REFUND_OVER_1L = 0.25              # refund drink container > 1 liter
 
-# Acquisition USER DATA
+# Acquisition of DATA entered by the USER
 drinkContainerUnderEqual1 = int(input(
     "How many DRINK CONTAINERS, holding ONE LITER or LESS , do you have to RECYCLE? "))
 drinkContainerOver1 = int(input("And how many, holding MORE THAN ONE LITER? "))
