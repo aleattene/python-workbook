@@ -3,7 +3,7 @@ Program that receives from the USER a POSITIVE INTEGER "n"
 and then DISPLAYS the SUM of positive integers "from 1 to n".
 """
 
-# Acquisition USER DATA
+# Acquisition of DATA entered by the USER
 n = int(input("Enter the NUMBER POSITIVE INTEGER: "))
 
 # Computing the SUM of positive integers "from 1 to n"
