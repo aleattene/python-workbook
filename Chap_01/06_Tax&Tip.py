@@ -24,7 +24,7 @@ prices = {
     "4": 21.00
 }
 
-# Acquisition and Control of USER DATA
+# Acquisition and Control of the DATA entered by the USER
 menu = input("Which MENU would you like to order? 1, 2, 3 or 4? ")
 while menu not in prices.keys() or menu == "":
     print("MENU not available. Try again.")
