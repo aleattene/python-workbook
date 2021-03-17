@@ -8,5 +8,5 @@ shows a GREETING MESSAGE (using the name entered by the user).
 name = input("Name? ")
 surname = input("Surname? ")
 
-# Show to video RESULTS
+# Displaying the GREETING MESSAGE
 print("HELLO " + surname + " " + name)
