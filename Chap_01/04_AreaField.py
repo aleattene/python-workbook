@@ -9,7 +9,7 @@ The final result is then displayed.
 width = float(input("Enter the WIDTH of a FARMER'S FIELD (feet): "))
 length = float(input("Enter also the LENGTH (feet): "))
 
-# Calculation FARMER'S FIELD (acres) -> (1 ACRE = 43.560 square feet)
+# Computing FARMER'S FIELD (acres) -> (1 ACRE = 43.560 square feet)
 area = (width * length) / 43560
 
 # Displaying FINAL RESULT (Formatting AREA value with 3 decimal places after comma)
