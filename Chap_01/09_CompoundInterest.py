@@ -4,7 +4,7 @@ in one savings account and displays the amount in the same account
 after 1, 2 and 3 years, based on a compound interest rate of 4% annual.
 """
 
-# Start definition of FUNCTIONS
+# Start Definition of FUNCTIONS
 
 
 def calcolaInteresse(amount):
@@ -23,7 +23,7 @@ def valutaFloat(amount):
     else:
         return False
 
-# End definition of FUNCTIONS
+# End Definition of FUNCTIONS
 
 
 # Acquisition and Control of the DATA entered by the USER
