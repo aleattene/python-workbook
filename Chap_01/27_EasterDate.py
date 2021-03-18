@@ -44,7 +44,7 @@ def formatDate(numero):
         numero = str(numero)
     return numero
 
-# START Definition of FUNCTIONS
+# END Definition of FUNCTIONS
 
 
 # Acquisition and Control of the DATA entered by the USER
