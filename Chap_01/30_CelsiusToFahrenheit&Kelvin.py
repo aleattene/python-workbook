@@ -1,6 +1,6 @@
 """
-The Program receives from the USER a temperature expressed in degrees Celsius
-and returns the same temperature expressed in both Kelvin and Fahrenheit degrees.
+The Program receives from the USER a TEMPERATURE expressed in degrees CELSIUS
+and returns the same TEMPERATURE expressed in both KELVIN and FAHRENHEIT degrees.
 """
 
 # START Definition of FUNCTIONS
