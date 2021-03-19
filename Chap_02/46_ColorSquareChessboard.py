@@ -31,7 +31,7 @@ def positionToColorSquare(position):
 # END Definition of FUNCTIONS
 
 
-# Acquisition and Control of the DATA entered by the USE
+# Acquisition and Control of the DATA entered by the USER
 position = input(
     "Enter the POSITION in the CHESSBOARD (between \"a1\" and \"h8\"): ")
 positionValidated = positionValida(position)
