@@ -32,7 +32,7 @@ def noteToFrequency(note):
     return frequency
 
 
-# END Definizione FUNCTION
+# END Definition of FUNCTION
 
 
 # Acquisition and Control of the DATA entered by the USER
