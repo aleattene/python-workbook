@@ -72,7 +72,7 @@ def frequencyToNote(frequency, margin):
 # END Definition of FUNCTIONS
 
 
-# Acquisition and Control of the DATA entered by the USE
+# Acquisition and Control of the DATA entered by the USER
 frequency = input(
     "Enter the FREQUENCY (Hz) of the NOTE (min 260.63 - max 494.88): ")
 frequencyIntValidated = valutaIntValido(frequency)
