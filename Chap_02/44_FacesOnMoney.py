@@ -28,7 +28,7 @@ def faceInBankonote(denomBanknote):
 # END Definition of FUNCTIONS
 
 
-# Acquisition and Control of the DATA entered by the USE
+# Acquisition and Control of the DATA entered by the USER
 denomBankonote = input("Enter the DENOMINATION of a BANKNOTE" +
                        "($1, $2 , $5 , $10 , $20 , $50 or $100): ")
 faceBankonote = faceInBankonote(denomBankonote)
