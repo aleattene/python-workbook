@@ -43,7 +43,7 @@ def dateToHolyday(month, day):
 # END Definition of FUNCTIONS
 
 
-# Acquisition and Control of the DATA entered by the USE
+# Acquisition and Control of the DATA entered by the USER
 print("Enter the MONTH and DAY.")
 month = input("MONTH: ")
 day = input("DAY: ")
