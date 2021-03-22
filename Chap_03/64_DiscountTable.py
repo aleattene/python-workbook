@@ -10,7 +10,7 @@ for PURCHASES of $4.95, $9.95, $14.95, $19.95 and $24.95.
 purchases = [4.95, 9.95, 14.95, 19.95, 24.95]
 DISCOUNT = 0.6      # discount 60%
 
-# PURCHASES TABLE generation (and displaying it)
+# Generation and display of the PURCHASES TABLE
 print("************************")
 print("        PURCHASES       ")
 print("************************")
