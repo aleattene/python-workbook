@@ -5,12 +5,12 @@ with COINS as large as possible.
 """
 
 # Declaration of VARIABLES
-toonies = 0     # 1 toonies = 200 cents = 2 $ CANADIANS
-loonies = 0     # 1 loonies = 100 cents = 1 $ CANADIAN
-quarters = 0    # 1 quarters = 25 cents = 1/4 di $ CANADIAN
-dimes = 0       # 1 dimes = 10 cents = 1/10 di $ CANADIAN
-nickels = 0     # 1 nickels = 5 cents = 1/20 di $ CANADIAN
-pennies = 0     # 1 pennies = 1 cent = 1/100 di $ CANADIAN
+toonies = 0     # 1 toonie = 200 cents = 2 $ CANADIANS
+loonies = 0     # 1 loonie = 100 cents = 1 $ CANADIAN
+quarters = 0    # 1 quarter = 25 cents = 1/4 di $ CANADIAN
+dimes = 0       # 1 dime = 10 cents = 1/10 di $ CANADIAN
+nickels = 0     # 1 nickel = 5 cents = 1/20 di $ CANADIAN
+pennies = 0     # 1 penny = 1 cent = 1/100 di $ CANADIAN
 
 
 # Acquisition and Control of the DATA entered by the USER
