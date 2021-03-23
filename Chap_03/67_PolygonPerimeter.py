@@ -112,7 +112,7 @@ while not(x3Validated and y3Validated):
 
 partialPerimeter += computePointsDistance(x2, y2, x3, y3)
 
-x4 = input("Enter the next x-coordinate (blank to quit): ")
+x4 = input("Enter the next x-coordinate (empty line to quit): ")
 if x4 != "":
     y4 = input("Enter the next y-coordinate: ")
     x4Validated = valutaEntry(x4)
@@ -123,13 +123,13 @@ while x4 != "":
         partialPerimeter += computePointsDistance(x3, y3, x4, y4)
         x3 = x4
         y3 = y4
-        x4 = input("Enter the next x-coordinate (blank to quit): ")
+        x4 = input("Enter the next x-coordinate (empty line to quit): ")
         if x4 != "":
             y4 = input("Enter the next y-coordinate: ")
             x4Validated = valutaEntry(x4)
             y4Validated = valutaEntry(y4)
     else:
-        x4 = input("Enter the next x-coordinate (blank to quit): ")
+        x4 = input("Enter the next x-coordinate (empty line to quit): ")
         if x4 != "":
             y4 = input("Enter the next y-coordinate: ")
             x4Validated = valutaEntry(x4)
