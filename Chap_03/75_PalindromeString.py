@@ -31,6 +31,3 @@ palindrome = checkWord(word)
 
 # Displaying the RESULT
 print("\"" + word.upper() + "\" " + palindrome)
-
-
-# Possible evolution -> check input utente = characters and not symbols 
