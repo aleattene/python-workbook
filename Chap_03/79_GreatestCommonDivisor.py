@@ -31,6 +31,7 @@ number_2 = input("Enter the SECOND POSITIVE INTEGER NUMBER: ")
 number_2_validated = valutaIntegerPositive(number_2)
 
 while not(number_1_validated and number_2_validated):
+    print("Incorrect entry. Try again.")
     number_1 = input("Enter the FIRST POSITIVE INTEGER NUMBER: ")
     number_1_validated = valutaIntegerPositive(number_1)
     number_2 = input("Enter the SECOND POSITIVE INTEGER NUMBER: ")
