@@ -19,7 +19,6 @@ def valutaEntry(binary):
 def binaryToDecimal(binary):
     decimal = 0
     number_digits = len(binary)
-    print(number_digits)
     for position in range(number_digits):
         decimal += int(binary[position]) * (2**(number_digits-position-1))
     return decimal
