@@ -18,10 +18,10 @@ def valutaEntry(number):
 
 def computesTaxiFare(distance):
     BASE_FARE = 4.00                    # BASE FARE = $4.00
-    variable_fare = 0.25                # $0.25 every 140 mt
+    VARIABLE_FARE = 0.25                # $0.25 every 140 mt
     distance_m = distance * 1000        # conversion km -> m
     distance_140m = distance_m / 140
-    taxi_fare = BASE_FARE + (distance_140m * variable_fare)
+    taxi_fare = BASE_FARE + (distance_140m * VARIABLE_FARE)
     return taxi_fare
 
 
