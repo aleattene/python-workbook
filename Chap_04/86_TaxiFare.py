@@ -2,7 +2,7 @@
 The program receives from the USER
 the DISTANCE TRAVELLED (in kilometers)
 and returns (displaying it) the TAXI FARE,
-considering:
+considering that:
 - BASE fare = $4.00
 - VARIABLE fare = $0.25 every 140 meters travelled.
 """
