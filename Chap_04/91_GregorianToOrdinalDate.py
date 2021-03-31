@@ -139,7 +139,7 @@ def main():
 
     # Displaying the RESULTS
     print("The date {:04d}-{:02d}-{:02d} in the Gregorian calendar corresponding".format(year, month, day),
-          "at the DAY number {:02d} of the ORDINAL DATE.".format(today_ordinal))
+          "at the DAY number {:02d} of the {:04d} (ORDINAL DATE).".format(today_ordinal, year))
 
 
 if __name__ == "__main__":
