@@ -107,18 +107,11 @@ def ordinalDate(day, month, year):      # Possible evolution -> Refactoring
 # END Definition of FUNCTIONS
 
 
-# Acquisition and Control of the DATA entered by the USER
-print("Enter the YEAR, MONTH and DAY of the GREGORIAN calendar.")
-year = input("YEAR: ")
-month = input("MONTH: ")
-day = input("DAY: ")
-yearValidated = valutaYear(year)
-monthValidated = validaMonth(month)
-dayValidated = valutaDay(day, month, year)
+# START MAIN PROGRAM
+def main():
 
-while not(yearValidated and monthValidated and dayValidated):
-    print("Incorrect entry. Try again.")
-    print("Enter the YEAR, MONTH and DAY.")
+    # Acquisition and Control of the DATA entered by the USER
+    print("Enter the YEAR, MONTH and DAY of the GREGORIAN calendar.")
     year = input("YEAR: ")
     month = input("MONTH: ")
     day = input("DAY: ")
@@ -126,17 +119,28 @@ while not(yearValidated and monthValidated and dayValidated):
     monthValidated = validaMonth(month)
     dayValidated = valutaDay(day, month, year)
 
+    while not(yearValidated and monthValidated and dayValidated):
+        print("Incorrect entry. Try again.")
+        print("Enter the YEAR, MONTH and DAY.")
+        year = input("YEAR: ")
+        month = input("MONTH: ")
+        day = input("DAY: ")
+        yearValidated = valutaYear(year)
+        monthValidated = validaMonth(month)
+        dayValidated = valutaDay(day, month, year)
 
-# Conversion STR -> INT
-day = int(day)
-month = int(month)
-year = int(year)
+    # Conversion STR -> INT
+    day = int(day)
+    month = int(month)
+    year = int(year)
+
+    # ORDINAL DATE computing
+    today_ordinal = ordinalDate(day, month, year)
+
+    # Displaying the RESULTS
+    print("The date {:04d}-{:02d}-{:02d} in the Gregorian calendar corresponding".format(year, month, day),
+          "at the DAY number {:02d} of the ORDINAL DATE.".format(today_ordinal))
 
 
-# ORDINAL DATE computing
-today_ordinal = ordinalDate(day, month, year)
-
-
-# Displaying the RESULTS
-print("The date {:04d}-{:02d}-{:02d} in the Gregorian calendar corresponding".format(year, month, day),
-      "at the DAY number {:02d} of the ORDINAL DATE.".format(today_ordinal))
+if __name__ == "__main__":
+    main()
