@@ -45,11 +45,11 @@ def valutaIntPositive(numero):
 
 
 def verificaTriangle(side1, side2, side3):
-    if side1 > (side2 + side3):
+    if side1 >= (side2 + side3):
         return False
-    if side2 > (side1 + side3):
+    if side2 >= (side1 + side3):
         return False
-    if side3 > (side2 + side1):
+    if side3 >= (side2 + side1):
         return False
     return True
 
