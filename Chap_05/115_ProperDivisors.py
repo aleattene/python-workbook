@@ -58,5 +58,5 @@ def main():
             number, proper_divisors))
 
 
-if __name__ == "__main__"
-main()
+if __name__ == "__main__":
+    main()
