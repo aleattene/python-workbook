@@ -1,8 +1,8 @@
 """
 The program receives a POSITIVE INTEGER from the USER
 and returns (displaying it) its PROPER DIVISORS.
-For example, 6 has only 2 and 3 as PROPER DIVISORS, 
-    because 1 and 6 are IMPROPER DIVISORS.
+For example, 6 has only 1, 2, and 3 as PROPER DIVISORS,
+as 6 is an IMPROPER DIVISOR.
 """
 
 
@@ -16,7 +16,7 @@ def checkEntry(number):            # Possible evolution -> IMPORT module
 
 def computeProperDivisors(number):  # Possible evolution -> REFACTORING
     number = int(number)
-    divisors = []
+    divisors = [1]
     divisor = 2
     quotient = number
     while divisor < quotient:
@@ -49,19 +49,14 @@ def main():
     proper_divisors = ",".join(proper_divisors_list)
 
     # Displaying the RESULTS
-    if len(proper_divisors) == 0:
-        print("The NUMBER ({}) has NOT a PROPER DIVISORS as it is a PRIME NUMBER.".format(number))
-    elif len(proper_divisors) == 1:
-        sign = ""
-        verb = "is"
-        print("The PROPER DIVISOR{} of the NUMBER ({}) {} ({}).".format(
-            sign, number, verb, proper_divisors))
+    if len(proper_divisors) == 1:
+        print("The PROPER DIVISOR of the NUMBER ({}) is ({}), ".format(
+            number, proper_divisors), end="")
+        print("therefore ({}) is a PRIME NUMBER.".format(number))
     else:   # len(proper_divisors) > 1
-        sign = "S"
-        verb = "are"
-        print("The PROPER DIVISOR{} of the NUMBER ({}) {} ({}).".format(
-            sign, number, verb, proper_divisors))
+        print("The PROPER DIVISORS of the NUMBER ({}) are ({}).".format(
+            number, proper_divisors))
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__"
+main()
