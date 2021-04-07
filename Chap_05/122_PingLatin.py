@@ -42,7 +42,7 @@ def translateToPigLatin(strings_list):
 # START MAIN PROGRAM
 def main():
 
-    # Acquisition and Control of the DATA entered by the USER
+    # Acquisition of DATA entered by the USER
     text = input("Enter the TEXT: ")
     # STRING TESTING
     # text = "computer think algorithm office"
