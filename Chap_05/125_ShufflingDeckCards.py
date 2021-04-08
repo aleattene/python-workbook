@@ -53,7 +53,7 @@ def main():
     deck_cards = createDeck()
     deck_cards_shuffled = shuffleDeckCards(deck_cards)
 
-    # Displaying the DECKS of the CARDScls
+    # Displaying the DECKS of the CARDS
     print("ORIGINAL DECK -> ", end="")
     for card in deck_cards:
         print(card, end=" ")
