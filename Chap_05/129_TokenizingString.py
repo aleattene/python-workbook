@@ -23,7 +23,7 @@ def tokenizingString(string):
     i = 0
     while i < len(string):
         # Check MATHEMATICAL OPERATORS
-        if string[i] in tokens and string[i] not in tokens_list:
+        if string[i] in tokens and string[i] not in tokens_list:  # duplicates not accepted
             tokens_list.append(string[i])
         # Check INTEGERS
         elif string[i].isdigit():
@@ -36,7 +36,7 @@ def tokenizingString(string):
                 else:
                     i -= 1
                     break
-            if tmp not in tokens_list:
+            if tmp not in tokens_list:  # duplicates not accepted
                 tokens_list.append(tmp)
         i += 1
     return tokens_list      # RETURN LIST of TOKENS
