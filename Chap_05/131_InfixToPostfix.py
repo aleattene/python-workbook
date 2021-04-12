@@ -72,7 +72,7 @@ def infixToPostfix(list_infix_expression):
         # CHECK OPERATORS
         if token in token_operators:
             while operators != [] and operators[-1] != "(" and \
-                    operatorPrecedence(token) < operatorPrecedence(operators[-1]):
+                    operatorPrecedence(token) <= operatorPrecedence(operators[-1]):
                 postfix.append(operators.pop())
             operators.append(token)
         # CHECK PARENTHESES
