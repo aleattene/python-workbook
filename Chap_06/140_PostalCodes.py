@@ -13,7 +13,7 @@ def checkEntry(values_string):
     pass
 
 
-def chackPostalCode(text_message):
+def checkPostalCode(text_message):
     # DICTIONARY - FIRST CHARACTER of CANADIAN POSTAL CODE
     canadians_provinces = {
         "A": "Newfoundland",
@@ -34,7 +34,7 @@ def chackPostalCode(text_message):
         "V": "British Columbia",
         "X": "Nunavut",
         "X": "Northwest Territories",
-        "Y": "Yukon",
+        "Y": "Yukon"
     }
     # LIST ["canadian province","type_territory" ]
     province_territory = []
@@ -65,7 +65,7 @@ def main():
     # text_message = "TAN 1N4"
 
     # LIST ["canadian province","type_territory" ]
-    address_postal_code = chackPostalCode(text_message)
+    address_postal_code = checkPostalCode(text_message)
 
     # Displaying the RESULT
     if len(address_postal_code) < 2:
