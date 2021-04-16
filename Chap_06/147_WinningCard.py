@@ -106,7 +106,7 @@ def main():
     # BINGO CARD DISPLAY
     displayBingoCard(bingo_card)
 
-    # # Acquisition of DATA entered by the USER
+    # Acquisition of DATA entered by the USER
     winning_numbers = input(
         "Enter the WINNING NUMBERS (separated by a whitespace): ")
 
