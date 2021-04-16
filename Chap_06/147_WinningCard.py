@@ -75,7 +75,6 @@ def checkWinningCard(winning_numbers, bingo_card):
         for key in bingo_card:
             total += bingo_card[key][i]
         if total == 0:
-            print("riga")
             return True
     # Check if the DIAGONALS of the BINGO CARD is WINNING
     total_sx = 0
