@@ -109,7 +109,7 @@ def main():
     winning_numbers = input(
         "Enter the WINNING NUMBERS (separated by a whitespace): ")
 
-    # DISPLAY the RESULTS
+    # Displaying the RESULTS
     result = checkWinningCard(winning_numbers, bingo_card)
     displayBingoCard(bingo_card)
     if result:
