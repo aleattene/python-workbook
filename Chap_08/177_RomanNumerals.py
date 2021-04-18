@@ -54,7 +54,7 @@ def main():
         if checkEntry(number):
             break
 
-    # CONVERSION "STRING" -> [ LIST reversed]
+    # CONVERSION "STRING" -> [LIST reversed]
     number_list = list(number.upper())
     number_list.reverse()
     integer = romanToInteger(number_list, 0)
