@@ -42,7 +42,7 @@ def main():
     for list_to_flatten in all_list_to_flatten:
         print("ORIGINAL LIST -> ", end="")
         print(list_to_flatten)
-        print("LIST FLATTENED-> ", end="")
+        print("FLATTENED LIST -> ", end="")
         print(flattenList(list_to_flatten))
 
 
