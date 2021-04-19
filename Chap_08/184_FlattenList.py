@@ -1,6 +1,6 @@
 """
 The program starting from a LIST of NESTED LIST
-return the same LIST FLATTENED.
+returns the same LIST FLATTENED.
 """
 
 
