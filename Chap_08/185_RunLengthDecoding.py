@@ -39,7 +39,7 @@ def main():
     for list_to_decode in all_list_to_decode:
         print("ORIGINAL ENCODED LIST -> ", end="")
         print(list_to_decode)
-        print("DECODED LIST-> ", end="")
+        print("DECODED LIST -> ", end="")
         print(decodeList(list_to_decode))
 
 
