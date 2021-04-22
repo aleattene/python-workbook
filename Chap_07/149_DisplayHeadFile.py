@@ -2,7 +2,6 @@
 The program displays the FIRST 10 lines of a FILE
 whose NAME is provided as a COMMAND-LINE ARGUMENT, 
 CATCHING and HANDLING any EXCEPTIONS.
-
 """
 
 # The system module must be imported to ACCESS the command-line ARGUMENTS
