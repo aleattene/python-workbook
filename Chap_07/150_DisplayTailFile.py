@@ -28,5 +28,5 @@ except FileNotFoundError:
     quit()
 # All other exceptions
 except:
-    print("Warning, a file name must be provided as a command-line argument.")
+    print("Warning, at least one file name must be provided as a command-line argument.")
     quit()
