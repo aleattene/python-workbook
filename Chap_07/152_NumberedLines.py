@@ -27,7 +27,7 @@ try:
         i += 1
 
     # Closing open files
-    f_name_read_opened
+    f_name_read_opened.close()
     f_name_write_opened.close()
 
     # Opening and reading of the previously written file
