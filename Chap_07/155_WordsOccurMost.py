@@ -50,7 +50,7 @@ while open_file:
         filename = input("Enter the FILE name to be analyzed: ")
 
 
-# Declaration of the dictionary which will contain the frequency of the letters
+# Declaration of the dictionary which will contain the frequency of the words
 words_frequency = {}
 
 # Select of the each Line from LIST of the LINES (returned from the readlines)
