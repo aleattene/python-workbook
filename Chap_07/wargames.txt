@@ -1,0 +1,73 @@
+A Seattle il giovane David Lightman, appassionato di informatica,
+è un abile e promettente hacker che vuole introdursi nel computer di una nota casa di videogiochi,
+la Protovision, con sede a Sunnyvale, nella Silicon Valley, che sta per lanciare una collana di nuovi prodotti.
+Effettuando un wardialing su tutti i telefoni della stessa regione in cui ha sede l'azienda,
+il ragazzo riesce a raggiungere diversi dispositivi,
+tra cui una connessione secondaria di supercomputer del NORAD
+studiato per sviluppare strategie atte a rispondere a un attacco sovietico:
+lo WOPR(War Operation Plan Response).
+Questo calcolatore, ubicato nella base fortezza di comando NORAD,
+valuta azioni e contromosse a un eventuale attacco sovietico basandosi sull'esecuzione
+di numerosi giochi strategici e simulazioni militari e,
+tramite una rudimentale intelligenza artificiale, riesce ad imparare dai propri errori.
+Una volta letto l'elenco di tali giochi, David si convince di aver raggiunto la Protovision,
+ma non riesce ad avere accesso al calcolatore.
+Aiutato dalla compagna di classe Jennifer, chiede consiglio a dei tecnici suoi amici,
+che sospettano l'origine militare della lista dei giochi
+e gli consigliano di cercare eventuali backdoor lasciate dal creatore del sistema per poterli provare.
+Partendo dal primo gioco della lista("Il labirinto di Falken")
+David riesce a risalire al programmatore originario, Stephen Falken,
+uno scienziato ufficialmente deceduto che lavorava per il Dipartimento della difesa degli Stati Uniti d'America.
+Cercando informazioni su Falken riesce ad entrare nel sistema usando come password il nome del figlio deceduto in un incidente,
+"Joshua", ed incomincia una partita a Guerra Termonucleare Globale contro lo WOPR,
+partita nella quale assume il ruolo dei sovietici.
+Dopo pochi minuti David deve abbandonare la connessione,
+ma il supercomputer ha già allarmato gli stati maggiori dell'esercito segnalando un attacco nucleare imminente,
+che portano lo stato della difesa(DEFCON) degli Stati Uniti d'America sempre più verso la guerra.
+Se per il ragazzo si tratta solamente di un gioco, così non è per il calcolatore
+che non discriminando fra realtà virtuale e realtà effettiva,
+continua a segnalare le operazioni di attacco inizialmente scelte da David,
+che vengono scambiate dai militari come reali azioni dei sovietici.
+Le contromosse degli statunitensi attirano l'attenzione dei sovietici,
+che le considereranno come vere e proprie provocazioni,
+e incominciano a loro volta a prepararsi al peggio,
+in un crescendo di tensioni che potrebbe realmente portare allo scoppio di una guerra nucleare.
+Il ragazzo viene presto localizzato e interrogato ma, al racconto dell'accaduto, nessuno gli crede
+a peggiorare le cose, lo WOPR si ostina a cercarlo per continuare la partita e,
+all'ennesima mossa del programma, David, creduto responsabile, viene arrestato per spionaggio.
+Riesce a fuggire, ma deve mettersi in contatto col professor Stephen Falken, che ha scoperto essere ancora in vita,
+per cercare di fermare lo WOPR. Falken da molti anni ormai si è ritirato a vita privata su di un'isola,
+dedicandosi alla paleontologia e allo studio dei dinosauri. Raggiunto da Jennifer e David che riescono a parlargli,
+si rivela però ormai cinico e disilluso,
+a causa della constatazione che i suoi sforzi nel campo della cibernetica e dell'intelligenza artificiale
+sono stati messi al servizio della classe dirigente militare. Falken fa il parallelo con i dinosauri,
+una volta dominatori della terra poi totalmente estinti,
+ed egli ritiene che possa essere naturale che l'uomo segua la stessa strada.
+Quando tutto sembra perduto David riesce a toccare l'animo dello scienziato:
+ricordando come la password di accesso alla backdoor dello WOPR fosse "Joshua",
+nome del figlioletto morto con la madre in un incidente.
+Il giovane chiede a Falken se permetterebbe la distruzione del mondo anche nel caso che
+suo figlio fosse ancora vivo.
+Lo scienziato, seppur inizialmente titubante, si convince infine ad aiutare David e insieme con lui torna al NORAD,
+penetrando nella sala di guerra prima che l'enorme porta blindata la sigilli dal mondo esterno.
+David e Falken convincono il generale Beringer, capo di stato maggiore delle forze armate,
+ad attendere i primi impatti prima di ordinare ritorsioni,
+certi che i tracciati missilistici e di bombardieri sovietici che gli schermi del NORAD mostrano in avvicinamento
+siano in realtà frutto della partita giocata da David. Nonostante l'immenso rischio che ciò comporta,
+il generale Beringer acconsente e,
+mentre gli schermi della sala riportano la distruzione totale di numerose basi e installazioni militari,
+il contatto radio diretto con gli obiettivi accerta che essi sono del tutto integri.
+La situazione sembra risolta, ma la stessa esclusione del fattore umano, caldeggiata dagli ingegneri informatici,
+sembra rivoltarsi contro i suoi ideatori: lo WOPR prepara comunque la contromossa e,
+grazie al collegamento diretto coi silos missilistici,
+non ha bisogno altro che di usare un algoritmo di ricerca esaustiva della soluzione:
+incomincia a inviarvi tutti i codici di lancio possibili,
+dato che uno di essi è sicuramente quello giusto.
+A pochi istanti dal lancio dei missili tuttavia è David a salvare la situazione,
+ordinando al sistema di giocare a tris contro sé stesso:
+le partite si arrestano l'una dopo l'altra in situazione di stallo
+e a quel punto Joshua avvia una simulazione di guerra dopo l'altra,
+tralasciando così la prosecuzione delle operazioni di lancio,
+con i codici che aveva già trovato. Dopo aver ottenuto anche qui una sequenza di risultati identici:
+"Vincitore: Nessuno", apprende finalmente che in certe situazioni "l'unica mossa vincente è non giocare."
+Joshua interrompe così la partita e, riconosciuto il suo creatore, lo invita a giocare una partita a scacchi.
