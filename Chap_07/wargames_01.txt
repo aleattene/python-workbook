@@ -1,0 +1,20 @@
+A Seattle il giovane David Lightman, appassionato di informatica,
+è un abile e promettente hacker che vuole introdursi nel computer di una nota casa di videogiochi,
+la Protovision, con sede a Sunnyvale, nella Silicon Valley, che sta per lanciare una collana di nuovi prodotti.
+Effettuando un wardialing su tutti i telefoni della stessa regione in cui ha sede l'azienda,
+il ragazzo riesce a raggiungere diversi dispositivi,
+tra cui una connessione secondaria di supercomputer del NORAD
+studiato per sviluppare strategie atte a rispondere a un attacco sovietico:
+lo WOPR(War Operation Plan Response).
+Questo calcolatore, ubicato nella base fortezza di comando NORAD,
+valuta azioni e contromosse a un eventuale attacco sovietico basandosi sull'esecuzione
+di numerosi giochi strategici e simulazioni militari e,
+tramite una rudimentale intelligenza artificiale, riesce ad imparare dai propri errori.
+Una volta letto l'elenco di tali giochi, David si convince di aver raggiunto la Protovision,
+ma non riesce ad avere accesso al calcolatore.
+Aiutato dalla compagna di classe Jennifer, chiede consiglio a dei tecnici suoi amici,
+che sospettano l'origine militare della lista dei giochi
+e gli consigliano di cercare eventuali backdoor lasciate dal creatore del sistema per poterli provare.
+Partendo dal primo gioco della lista("Il labirinto di Falken")
+David riesce a risalire al programmatore originario, Stephen Falken,
+uno scienziato ufficialmente deceduto che lavorava per il Dipartimento della difesa degli Stati Uniti d'America.
