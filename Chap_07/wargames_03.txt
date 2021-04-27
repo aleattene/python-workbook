@@ -1,0 +1,23 @@
+Lo scienziato, seppur inizialmente titubante, si convince infine ad aiutare David e insieme con lui torna al NORAD,
+penetrando nella sala di guerra prima che l'enorme porta blindata la sigilli dal mondo esterno.
+David e Falken convincono il generale Beringer, capo di stato maggiore delle forze armate,
+ad attendere i primi impatti prima di ordinare ritorsioni,
+certi che i tracciati missilistici e di bombardieri sovietici che gli schermi del NORAD mostrano in avvicinamento
+siano in realtà frutto della partita giocata da David. Nonostante l'immenso rischio che ciò comporta,
+il generale Beringer acconsente e,
+mentre gli schermi della sala riportano la distruzione totale di numerose basi e installazioni militari,
+il contatto radio diretto con gli obiettivi accerta che essi sono del tutto integri.
+La situazione sembra risolta, ma la stessa esclusione del fattore umano, caldeggiata dagli ingegneri informatici,
+sembra rivoltarsi contro i suoi ideatori: lo WOPR prepara comunque la contromossa e,
+grazie al collegamento diretto coi silos missilistici,
+non ha bisogno altro che di usare un algoritmo di ricerca esaustiva della soluzione:
+incomincia a inviarvi tutti i codici di lancio possibili,
+dato che uno di essi è sicuramente quello giusto.
+A pochi istanti dal lancio dei missili tuttavia è David a salvare la situazione,
+ordinando al sistema di giocare a tris contro sé stesso:
+le partite si arrestano l'una dopo l'altra in situazione di stallo
+e a quel punto Joshua avvia una simulazione di guerra dopo l'altra,
+tralasciando così la prosecuzione delle operazioni di lancio,
+con i codici che aveva già trovato. Dopo aver ottenuto anche qui una sequenza di risultati identici:
+"Vincitore: Nessuno", apprende finalmente che in certe situazioni "l'unica mossa vincente è non giocare."
+Joshua interrompe così la partita e, riconosciuto il suo creatore, lo invita a giocare una partita a scacchi.
