@@ -1,6 +1,12 @@
 """
-The Program receives from the USER a PERIOD of TIME expressed in seconds
-and returns it in the format  D:HH:MM:SS
+In this exercise you will reverse the process described in Exercise 24.
+Develop a program that begins by reading a number of seconds from the user.
+Then your program should display the equivalent amount of time in the form D:HH:MM:SS,
+where D, HH, MM, and SS represent days, hours, minutes and seconds respectively.
+The hours, minutes and seconds should all be formatted so that they occupy exactly two digits.
+Use your research skills determine what additional character needs
+to be included in the format specifier so that leading zeros are used
+instead of leading spaces when a number is formatted to a particular width.
 """
 
 # START Definition of FUNCTION
@@ -45,13 +51,13 @@ minutes = 0      # 1 minute = 60 seconds
 
 # Computing of DAYS, HOURS, MINUTES and SECONDS
 if seconds >= 86400:
-    days = int(seconds / 86400)
+    days = seconds // 86400
     seconds = seconds % 86400
 if seconds >= 3600:
-    hours = int(seconds / 3600)
+    hours = seconds // 3600
     seconds = seconds % 3600
 if seconds >= 60:
-    minutes = int(seconds / 60)
+    minutes = seconds // 60
     seconds = seconds % 60
 
 # Formatting TIME PERIOD (conversion INT -> STR)  - Possible Alternative -> %02d
@@ -61,5 +67,4 @@ minutes = formatDate(str(minutes))
 seconds = formatDate(str(seconds))
 
 # Displaying the RESULTS
-print("DURATION entered -> " + days + ":" + hours +
-      ":" + minutes + ":" + seconds + " (D:HH:MM:SS)")
+print(f'DURATION entered -> {days}:{hours}:{minutes}:{seconds} (D:HH:MM:SS)')
