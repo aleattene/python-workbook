@@ -1,7 +1,7 @@
-""" 
-The Program receives from the USER a PERIOD of TIME expressed in 
-DAYS, HOURS, MINUTES and SECONDS and returns it
-expressed in SECONDS.
+"""
+Create a program that reads a duration from the user as a
+number of DAYS, HOURS, MINUTES, and SECONDS.
+Compute and display the total number of SECONDS represented by this duration.
 """
 
 # START Definition of FUNCTION
@@ -57,4 +57,4 @@ duration = seconds + secondsMinutes + secondsHours + secondsDays
 
 
 # Displaying the RESULT
-print("DURATION entered = %i" % duration + " seconds")
+print(f'DURATION entered = {duration} seconds')
