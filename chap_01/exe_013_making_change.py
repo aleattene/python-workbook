@@ -1,7 +1,12 @@
 """
-The Program receives in INPUT from the USER a certain number
-of Cents of Dollar (Canadian) and displays the EXCHANGE
-with COINS as large as possible.
+Consider the software that runs on a self-checkout machine.
+One task that it must be able to perform is to determine
+how much change to provide when the shopper pays for a purchase with cash.
+Write a program that begins by reading a number of cents from the user as an integer.
+Then your program should compute and display the denominations of the coins
+that should be used to give that amount of change to the shopper.
+The change should be given using as few coins as possible.
+Assume that the machine is loaded with pennies, nickels, dimes, quarters, loonies and toonies.
 """
 
 # Declaration of VARIABLES
@@ -26,28 +31,28 @@ cents = int(cents)
 
 # Computing RESULTS (toonies, loonies, quarters, dimes, nickels, pennies)
 if cents >= 200:
-    toonies = int(cents / 200)
+    toonies = cents // 200
     cents = cents % 200
 if cents >= 100:
-    loonies = int(cents / 100)
+    loonies = cents // 100
     cents = cents % 100
 if cents >= 25:
-    quarters = int(cents / 25)
+    quarters = cents // 25
     cents = cents % 25
 if cents >= 10:
-    dimes = int(cents / 10)
+    dimes = cents // 10
     cents = cents % 10
 if cents >= 5:
-    nickels = int(cents / 5)
+    nickels = cents // 5
     cents = cents % 5
 
 pennies = cents
 
 # Displaying the RESULTS
 print("RESULTS:")
-print("- Toonies = %i" % toonies)
-print("- Loonies = %i" % loonies)
-print("- Quarters = %i" % quarters)
-print("- Dimes = %i" % dimes)
-print("- Nickels = %i" % nickels)
-print("- Pennies = %i" % pennies)
+print(f'- Toonies = {toonies}')
+print(f'- Loonies = {loonies}')
+print(f'- Quarters = {quarters}')
+print(f'- Dimes = {dimes}')
+print(f'- Nickels = {nickels}')
+print(f'- Pennies = {pennies}')
