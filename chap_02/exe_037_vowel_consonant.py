@@ -1,7 +1,10 @@
 """
-The Program receives a WORD from the USER 
-and Display for EACH CHARACTER that composes it,
-if it represents a VOWEL or a CONSONANT.
+In this exercise you will create a program that reads a letter of the alphabet from the user.
+If the user enters a, e, i, o or u then your program should display a message
+indicating that the entered letter is a VOWEL.
+If the user enters y then your program should display a message
+indicating that sometimes y is a VOWEL, and sometimes y is a CONSONANT.
+Otherwise your program should display a message indicating that the letter is a CONSONANT.
 """
 
 # START Definition of FUNCTIONS
@@ -42,4 +45,4 @@ while not(stringInputValidated):
 # Displaying the RESULTS
 for char in stringInput:
     result = vowelOrConsonant(char)
-    print(char + " = " + result)
+    print(f'{char} = {result}')
