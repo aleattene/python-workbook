@@ -1,8 +1,11 @@
 """
-The program displays the MAGIC DATES in the 20th CENTURY (1901 - 2000)
-considering that the MAGIC DATE is a date where
-the DAY MULTIPLIED for the MONTH is equal to the TWO FINAL DIGITS YEAR. 
-For example: June 10 , 1960 = 10 * 6 = 60 -> MAGIC DATE.
+A magic date is a date where the day multiplied by the month is equal to the two digit year.
+For example, June 10, 1960 is a magic date because
+June is the sixth month, and
+6 times 10 is 60,
+which is equal to the two digit year.
+Write a function that determines whether or not a date is a magic date.
+Use your function to create a main program that finds and displays all of the magic dates in the 20th century.
 """
 
 # START Definition of FUNCTIONS
