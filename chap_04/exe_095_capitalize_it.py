@@ -1,11 +1,26 @@
 """
-The program receives a STRING from the USER
-and return (displaying it) the same STRING FORMATTED in the following manner:
-- capitalized the FIRST non-space CHARACTER
-- capitalized the first non-space character AFTER a period,
-    exclamation mark or question mark
-- capitalized a lowercase "i" if it is preceded by a space,period, 
-    exclamation mark, question mark or followed by an apostrophe.
+Many people do not use capital letters correctly, especially when typing on small devices like smart phones.
+To help address this situation,
+you will create a function that takes a string as its only parameter and
+returns a new copy of the string that has been correctly capitalized.
+
+In particular, your function must:
+- capitalize the first non-space character in the string,
+- capitalize the first non-space character after a period, exclamation mark or question mark, and
+- capitalize a lowercase “i” if it is preceded by a space and followed by
+    a space, period, exclamation mark, question mark or apostrophe.
+
+Implementing these transformations will correct most capitalization errors.
+
+For example, if the function is provided with the string
+
+“what time do i have to be there? what’s the address? this time i’ll try to be on time!” then it should
+
+return the string
+
+“What time do I have to be there? What’s the address? This time I’ll try to be on time!”.
+
+Include a main program that reads a string from the user, capitalizes it using your function, and displays the result.
 """
 
 
