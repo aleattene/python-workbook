@@ -1,12 +1,26 @@
 """
-The program reads a LINE of TEXT from the USER
-(assuming that the insertable text contains only lowercase letters and whitespace)
-and RETURNS the SAME TEXT translated into PIG LATIN:
-- if the word begins with a consonant, all letters at the beginning of the word, 
-    up to the first vowel, are removed and added to the end of the word,
-    followed by "ay" (computer -> omputercay)
-- if the word begins with a vowel, only "way" is added at the end of the word
-    (office -> officeway)
+Pig Latin is a language constructed by transforming English words.
+While the origins of the language are unknown,
+it is mentioned in at least two documents from the nineteenth century,
+suggesting that it has existed for more than 100 years.
+
+The following rules are used to translate English into Pig Latin:
+- if the word begins with a consonant (includingy), then
+    all letters at the beginning of the word,
+    up to the first vowel (excluding y),
+    are removed and then
+    added to the end of the word,
+    followed by ay.
+    For example:
+        computer becomes omputercay and think becomes inkthay.
+- if the word begins with a vowel (not including y), then
+    way is added to the end of the word.
+    For example:
+        algorithm becomes algorithmway and office becomes officeway.
+
+Write a program that reads a line of text from the user.
+Then your program should translate the line into Pig Latin and display the result.
+You may assume that the string entered by the user only contains lowercase letters and spaces.
 """
 
 
