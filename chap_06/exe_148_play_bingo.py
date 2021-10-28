@@ -1,7 +1,19 @@
 """
-The program SIMULATES 1000 games of BINGO for a SINGLE CARD,
-returning the MINIMUM, MAXIMUM and AVERAGE NUMBER of CALLS 
-that must be made BEFORE the CARD WINS.
+In this exercise you will write a program that simulates a game of Bingo for a single card.
+
+Begin by generating a list of all of the valid Bingo calls (B1 through O75).
+
+Once the list has been created you can randomize the order of its elements
+by calling the shuffle function in the random module.
+
+Then your program should consume calls out of the list and cross out numbers on the card
+until the card contains a winning line.
+
+Simulate 1,000 games and report the minimum, maximum and average number of calls
+that must be made before the card wins.
+
+You may find it helpful to import your solutions to Exercises "Create a Bingo Card" and
+"Checking for a winning Card" when completing this exercise.
 """
 
 # IMPORT RANDOM and COPY modules
