@@ -1,6 +1,13 @@
 """
-The program starting from a DECODED LIST
-returns the same LIST ENCODED.
+Write a recursive function that implements the run-length compression technique
+described in Run-Lenght Decoding Exercise.
+
+Your function will take a list or a string as its only argument.
+It should return the run-length compressed list as its only result.
+
+Include a main program that reads a string from the user, compresses it, and displays the run-length encoded result.
+
+Hint: You may want to include a loop inside the body of your recursive function.
 """
 
 
