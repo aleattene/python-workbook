@@ -1,5 +1,5 @@
 """
-The program, referring to the DATA SET (named BabyNames) 
+The program, referring to the DATA SET (named baby_names)
 that contain ALL of the NAMES that were MOST POPULAR in at least one year, from 1900 to 2012, 
 determines and displays the BOY'S name and the GIRL'S name 
 given to the MOST CHILDREN born during a specific time period entered by the user.

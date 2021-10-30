@@ -1,7 +1,7 @@
 """
-The program OPENS e READS every file present in the DATA SET (named BabyNames) 
-that contains ALL of the NAMES that were MOST POPULAR in at least one year, from 1900 to 2012.
-After that, it returns the MOST POPULAR NAMES both for the BOYS and for GIRLS.
+The program OPENS e READS every file present in the DATA SET (named baby_names)
+containing ALL of the NAMES that were MOST POPULAR for the children, from 1900 to 2012.
+After that, it returns the DISTINCT NAMES for both BOYS and GIRLS.
 """
 
 
@@ -34,19 +34,20 @@ for gender in range(2):
                 quit()
 
         # Name selection from the first line (index zero of the list returned da readline/split methods)
-        name = f_name_opened.readline().split(" ")[0]
-        if name not in gender_list:
-            # Name not present in the list
-            gender_list.append(name)
+        for line in f_name_opened.readlines():
+            name = line.split(" ")[0]
+            if name not in gender_list:
+                # Name not present in the list
+                gender_list.append(name)
 
         # Closing the previously opened file
         f_name_opened.close()
 
 
 # Displaying the RESULTS
-print("MOST POPULAR NAMES for BOYS -> ", end="")
-for name in boys_names:
+print("1) DISTINCT NAMES for BOYS:")
+for name in sorted(boys_names):
     print(name, end="  ")
-print("\nMOST POPULAR NAMES for GIRLS -> ", end="")
-for name in girls_names:
+print("\n2) DISTINCT NAMES for GIRLS:")
+for name in sorted(girls_names):
     print(name, end="  ")
