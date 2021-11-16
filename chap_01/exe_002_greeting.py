@@ -1,12 +1,11 @@
-
-""" 
+"""
 Program that asks the USER to enter his/her NAME and then 
 shows a GREETING MESSAGE (using the name entered by the user).
 """
 
 # Acquisition of DATA entered by the USER
-name = input("Name? ")
-surname = input("Surname? ")
+name = input("Please, enter your name: ").capitalize()
+surname = input("Please, enter your surname: ").capitalize()
 
-# Displaying the GREETING MESSAGE
-print("HELLO " + surname + " " + name)
+# Display of the GREETING MESSAGE
+print(f'Hello {surname} {name}.')
