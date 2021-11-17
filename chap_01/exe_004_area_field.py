@@ -13,4 +13,4 @@ length = float(input("Enter also the LENGTH (feet): "))
 area = (width * length) / 43560
 
 # Displaying the FARMER'S FIELD AREA (three digital digits after the comma)
-print("The AREA of a farmer's field is " + "%.3f" % area + " acres")
+print(f'The AREA of a farmer\'s field is {area = :.3f} acres.')
