@@ -1,4 +1,4 @@
-# My Solution of Python Workbook Exercise
+# My Solution of the Python Workbook
 
 ### Chapter 01
 - [001 - Print Address](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_001_print_address.py)
