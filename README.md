@@ -21,7 +21,16 @@
 - [018 - Cylinder Volume](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_018_cylinder_volume.py)
 - [019 - Free Fall](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_019_free_fall.py)
 - [020 - Ideal Gas Law](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_020_ideal_gas_law.py)
-- 
+- [021 - Area Triangle]()
+- [022 - Area Triangle Heron]()
+- [023 - Area Regular Polygon]()
+- [024 - Units Time]()
+- [025 - Units Time Reverse]()
+- [026 - Current Time Date]()
+- [027 - Easter Date]()
+- [028 - Bmi]()
+- [029 - Wci]()
+- [030 - Celsius To Fahrenheit Kelvin]()
 
 ### Chapter 02
 ### Chapter 03
