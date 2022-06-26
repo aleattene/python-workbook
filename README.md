@@ -37,6 +37,18 @@
 - [034 - Day Old Bread](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_034_day_old_bread.py)
 
 ### Chapter 02
+- [035 - Even Odd](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_035_even_odd.py)
+- [036 - Dog Years](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_036_dog_years.py)
+- [037 - Vowel Consonant](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_037_vowel_consonant.py)
+- [038 - Name Shape](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_038_name_shape.py)
+- [039 - Month Days](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_039_month_days.py)
+- [040 - Sound Levels](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_040_sound_levels.py)
+- [041 - Classifying Triangles](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_041_classifying_triangles.py)
+- [042 - Note To Frequency](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_042_note_to_frequency.py)
+- [043 - Frequency Note](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_043_frequency_note.py)
+- [044 - Faces Money](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_044_faces_money.py)
+- [045 - Date To Holiday Name](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_045_date_to_holiday_name.py)
+
 ### Chapter 03
 ### Chapter 04
 ### Chapter 05
