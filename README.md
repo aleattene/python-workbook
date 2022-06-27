@@ -48,6 +48,16 @@
 - [043 - Frequency Note](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_043_frequency_note.py)
 - [044 - Faces Money](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_044_faces_money.py)
 - [045 - Date To Holiday Name](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_045_date_to_holiday_name.py)
+- [046 - Color Square Chessboard](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_046_color_square_chessboard.py)
+- [047 - Date To Season](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_047_date_to_season.py)
+- [048 - Date To Zodiac Sign](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_048_date_to_zodiac_sign.py)
+- [049 - Chinese Zodiac](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_049_chinese_zodiac.py)
+- [050 - Richter Scale](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_050_richter_scale.py)
+- [051 - Roots Quadratic Function](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_051_roots_quadratic_function.py)
+- [052 - Letter Grade To Points](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_052_letter_grade_to_points.py)
+- [053 - Grade Points To Letter](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_053_grade_points_to_letter.py)
+- [054 - Assessing Employees](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_054_assessing_employees.py)
+- [055 - Wavelenghts Visibile Light](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_055_wavelenghts_visibile_light.py)
 
 ### Chapter 03
 ### Chapter 04
