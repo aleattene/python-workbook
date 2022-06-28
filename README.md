@@ -58,6 +58,14 @@
 - [053 - Grade Points To Letter](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_053_grade_points_to_letter.py)
 - [054 - Assessing Employees](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_054_assessing_employees.py)
 - [055 - Wavelenghts Visibile Light](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_055_wavelenghts_visibile_light.py)
+- [056 - Frequency To Radiation](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_056_frequency_to_radiation.py)
+- [057 - Cell Phone Bill](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_057_cell_phone_bill.py)
+- [058 - Leap Years](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_058_leap_years.py)
+- [059 - Next Day](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_059_next_day.py)
+- [060 - Day Week January One](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_060_day_week_january_one.py)
+- [061 - License Plates Valid](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_061_license_plates_valid.py)
+- [062 - Roulette Payouts](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_062_roulette_payouts.py)
+
 
 ### Chapter 03
 ### Chapter 04
