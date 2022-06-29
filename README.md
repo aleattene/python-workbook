@@ -66,8 +66,22 @@
 - [061 - License Plates Valid](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_061_license_plates_valid.py)
 - [062 - Roulette Payouts](https://github.com/aleattene/python-workbook/blob/main/chap_02/exe_062_roulette_payouts.py)
 
-
 ### Chapter 03
+- [063 - Average Of Values](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_063_average_of_values.py)
+- [064 - Discount Table](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_064_discount_table.py)
+- [065 - Temperature Conversion Table](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_065_temperature_conversion_table.py)
+- [066 - Pennies To Nickels](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_066_pennies_to_nickels.py)
+- [067 - Polygon Perimeter](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_067_polygon_perimeter.py)
+- [068 - Letter Grades To Average Point](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_068_letter_grades_to_average_point.py)
+- [069 - Admission Price](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_069_admission_price.py)
+- [070 - Even Parity Bits](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_070_even_parity_bits.py)
+- [071 - Approssimate Pi](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_071_approssimate_pi.py)
+- [072 - Fizz Buzz Game](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_072_fizz_buzz_game.py)
+- [073 - Caesar Cipher](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_073_caesar_cipher.py)
+- [074 - Square Root](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_074_square_root.py)
+- [075 - Palindrome String](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_075_palindrome_string.py)
+
+
 ### Chapter 04
 ### Chapter 05
 ### Chapter 06
