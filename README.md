@@ -80,6 +80,15 @@
 - [073 - Caesar Cipher](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_073_caesar_cipher.py)
 - [074 - Square Root](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_074_square_root.py)
 - [075 - Palindrome String](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_075_palindrome_string.py)
+- [076 - Multiple Word Palindromes](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_076_multiple_word_palindromes.py)
+- [077 - Multiplication Table](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_077_multiplication_table.py)
+- [078 - Collatz Conjecture Sequence](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_078_collatz_conjecture_sequence.py)
+- [079 - Greatest Common Divisor](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_079_greatest_common_divisor.py)
+- [080 - Prime Factors](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_080_prime_factors.py)
+- [081 - Binary To Decimal](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_081_binary_to_decimal.py)
+- [082 - Decimal To Binary](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_082_decimal_to_binary.py)
+- [083 - Maximum Integer](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_083_maximum_integer.py)
+- [084 - Coin Flip Simulation](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_084_coin_flip_simulation.py)
 
 
 ### Chapter 04
