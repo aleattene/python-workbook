@@ -90,8 +90,20 @@
 - [083 - Maximum Integer](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_083_maximum_integer.py)
 - [084 - Coin Flip Simulation](https://github.com/aleattene/python-workbook/blob/main/chap_03/exe_084_coin_flip_simulation.py)
 
-
 ### Chapter 04
+- [085 - Hypotenuse Right Triangle](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_085_hypotenuse_right_triangle.py)
+- [086 - Taxi Fare](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_086_taxi_fare.py)
+- [087 - Shipping Calculator](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_087_shipping_calculator.py)
+- [088 - Median Value](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_088_median_value.py)
+- [089 - Integer To Ordinal Number](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_089_integer_to_ordinal_number.py)
+- [090 - Twelve Days Christmas Song](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_090_twelve_days_christmas_song.py)
+- [091 - Gregorian To ordinal Date](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_091_gregorian_to_ordinal_date.py)
+- [092 - Ordinal To Gregorian Date](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_092_ordinal_to_gregorian_date.py)
+- [093 - Centered String](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_093_centered_string.py)
+- [094 - Valid Triangle](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_094_valid_triangle.py)
+- [095 - Capitalize It](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_095_capitalize_it.py)
+
+
 ### Chapter 05
 ### Chapter 06
 ### Chapter 07
