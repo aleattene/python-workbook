@@ -102,6 +102,20 @@
 - [093 - Centered String](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_093_centered_string.py)
 - [094 - Valid Triangle](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_094_valid_triangle.py)
 - [095 - Capitalize It](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_095_capitalize_it.py)
+- [096 - String Integer](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_096_string_integer.py)
+- [097 - Operator Priority](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_097_operator_priority.py)
+- [098 - Prime Number](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_098_prime_number.py)
+- [099 - Next Prime Number](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_099_next_prime_number.py)
+- [100 - Random Password](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_100_random_password.py)
+- [101 - Random License Plate](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_101_random_license_plate.py)
+- [102 - Check Password](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_102_check_password.py)
+- [103 - Random Good Password](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_103_random_good_password.py)
+- [104 - Hexa Decimal Digits](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_104_hexa_decimal_digits.py)
+- [105 - Arbitrary Base Conversions](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_105_arbitrary_base_conversions.py)
+- [106 - Days In Month](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_106_days_in_month.py)
+- [107 - Reduce Fraction Lowest Terms](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_107_reduce_fraction_lowest_terms.py)
+- [108 - Reduce Measures](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_108_reduce_measures.py)
+- [109 - Magic Dates](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_109_magic_dates.py)
 
 
 ### Chapter 05
