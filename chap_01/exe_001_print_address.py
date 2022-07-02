@@ -1,5 +1,8 @@
 
 # Simple ADDRESS PRINTING program.
 
-print("ATTENE ALESSANDRO")
-print("Via della Speranza, 13\n20019 - Milano (MI)")
+def print_address(address):
+    return address
+
+
+print(print_address("ATTENE ALESSANDRO\nVia della Speranza, 13\n20019 - Milano (MI)"))
