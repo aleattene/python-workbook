@@ -1,4 +1,6 @@
-# My Solutions of the Python Workbook
+# Solutions and Tests of the Python Workbook
+
+[![codecov](https://codecov.io/gh/aleattene/python-workbook/branch/main/graph/badge.svg?token=5Z25ZHK5BI)](https://codecov.io/gh/aleattene/python-workbook)
 
 ### Chapter 01
 - [001 - Print Address](https://github.com/aleattene/python-workbook/blob/main/chap_01/exe_001_print_address.py)
