@@ -119,8 +119,24 @@
 - [108 - Reduce Measures](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_108_reduce_measures.py)
 - [109 - Magic Dates](https://github.com/aleattene/python-workbook/blob/main/chap_04/exe_109_magic_dates.py)
 
-
 ### Chapter 05
+- [110 Sorted List]()
+- [111 Reversed List]()
+- [112 Removed Outliers List]()
+- [113 Avoiding Duplicates]()
+- [114 Negatives Zeros Positives]()
+- [115 Proper Divisors]()
+- [116 Perfect Numbers]()
+- [117 Only Words]()
+- [118 Word By Word Palindromes]()
+- [119 Below Above Average]()
+- [120 String List Formatting]()
+- [121 Random Lottery Numbers]()
+- [122 Ping Latin]()
+- [123 Pig Latin Improved]()
+- [124 Line Best Fit]()
+- [125 Shuffling Deck Cards]()
+
 ### Chapter 06
 ### Chapter 07
 ### Chapter 08
