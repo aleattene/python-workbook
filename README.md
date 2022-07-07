@@ -148,5 +148,19 @@
 - [135 - Sieve Eratosthenes](https://github.com/aleattene/python-workbook/blob/main/chap_05/exe_135_sieve_eratosthenes.py)
 
 ### Chapter 06
+- [136 - Reverse Lookup](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_136_reverse_lookup.py)
+- [137 - Two Dice Simulation](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_137_two_dice_simulation.py)
+- [138 - Text Messaging](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_138_text_messaging.py)
+- [139 - Morse Code](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_139_morse_code.py)
+- [140 - Postal Codes](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_140_postal_codes.py)
+- [141 - Write English Numbers](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_141_write_english_numbers.py)
+- [142 - Unique Characters](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_142_unique_characters.py)
+- [143 - Anagrams](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_143_anagrams.py)
+- [144 - Anagrams Again](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_144_anagrams_again.py)
+- [145 - Scrabble Score](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_145_scrabble_score.py)
+- [146 - Create Bingo Card](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_146_create_bingo_card.py)
+- [147 - Winning Card](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_147_winning_card.py)
+- [148 - Play Bingo](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_148_play_bingo.py)
+
 ### Chapter 07
 ### Chapter 08
