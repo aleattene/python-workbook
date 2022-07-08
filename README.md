@@ -163,4 +163,20 @@
 - [148 - Play Bingo](https://github.com/aleattene/python-workbook/blob/main/chap_06/exe_148_play_bingo.py)
 
 ### Chapter 07
+- To fix: issue #9
+
 ### Chapter 08
+- [173 - Total_values](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_173_total_values.py)
+- [174 - Greatest_common_divisor](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_174_greatest_common_divisor.py)
+- [175 - Decimal_to_binary](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_175_decimal_to_binary.py)
+- [176 - Nato_phonetic_alphabet](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_176_nato_phonetic_alphabet.py)
+- [177 - Roman_numerals](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_177_roman_numerals.py)
+- [178 - Recursive_palindrome](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_178_recursive_palindrome.py)
+- [179 - Recursive_square_root](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_179_recursive_square_root.py)
+- [180 - String_edit_distance](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_180_string_edit_distance.py)
+- [181 - Possible_change](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_181_possible_change.py)
+- [182 - Spelling_element_symbols](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_182_spelling_element_symbols.py)
+- [183 - Element_sequences](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_183_element_sequences.py)
+- [184 - Flatten_list](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_184_flatten_list.py)
+- [185 - Run_length_decoding](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_185_run_length_decoding.py)
+- [186 - Run_length_encoding](https://github.com/aleattene/python-workbook/blob/main/chap_08/exe_186_run_length_encoding.py)
