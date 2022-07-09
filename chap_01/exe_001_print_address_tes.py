@@ -1,10 +1,10 @@
-""" To start the tests, type from CLI: pytest"""
+""" To start the tests, type from CLI: pytest """
 
 import unittest
 from exe_001_print_address import print_address
 
 
-class MyTestCase(unittest.TestCase):
+class Exe001(unittest.TestCase):
 
     def test_print_address(self):
         name = 'ATTENE ALESSANDRO'
@@ -12,7 +12,7 @@ class MyTestCase(unittest.TestCase):
         cap = '20019'
         city = 'Milano (MI)'
         complete_address = f"{name}\n{address}\n{cap} - {city}"
-        self.assertEqual(print_address(complete_address), complete_address)  # add assertion here
+        self.assertEqual(print_address(complete_address), complete_address)
 
 
 if __name__ == '__main__':

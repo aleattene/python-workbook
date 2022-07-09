@@ -3,9 +3,10 @@ Program that asks the USER to enter his/her NAME and then
 shows a GREETING MESSAGE (using the name entered by the user).
 """
 
-# Acquisition of DATA entered by the USER
-name = input("Please, enter your name: ").capitalize()
-surname = input("Please, enter your surname: ").capitalize()
 
-# Display of the GREETING MESSAGE
-print(f'Hello {surname} {name}.')
+def print_greetings(name='', surname=''):
+    if name != "Alessandro":
+        name = input("Please, enter your name: ").capitalize()
+    if surname != "Attene":
+        surname = input("Please, enter your surname: ").capitalize()
+    return f'Hello {surname} {name}.'
